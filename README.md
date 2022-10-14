@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
  <div>
-   <a href="https://github.com/EC-Vinhas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EC-Vinhas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EC-Vinhas&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/esthervinhas">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esthervinhas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthervinhas&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 
@@ -15,7 +15,6 @@
  
  <br>
 
-
   
 <div> 
   
@@ -23,7 +22,7 @@
    <a href = "mailto:ecvinhas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/esther-vinhas-098aa950/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/EC-Vinhas/EC-Vinhas/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/esthervinhas/esthervinhas/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
